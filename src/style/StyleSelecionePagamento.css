@@ -1,0 +1,43 @@
+.InfoPessoal {
+    margin-top: 2%;
+
+
+
+}
+
+.Cartoes {
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 55%;
+
+}
+
+.BotoesMetodos {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.selecione-pagamento {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+
+}
+
+.cartoes-salvos {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: rgb(119, 119, 119);
+}
+
+.metodos-pagamento {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: rgb(119, 119, 119);
+}
+
+.botoes-metodos-pagamentos {
+    border: 2px solid black;
+}

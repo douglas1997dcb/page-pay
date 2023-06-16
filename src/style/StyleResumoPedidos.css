@@ -1,0 +1,55 @@
+.container-resumo-compras {
+    margin: 15px;
+}
+
+.item {
+    display: flex;
+    margin: 0;
+    font-size: 0.8rem;
+}
+
+.produto {
+    margin: 0;
+    padding: 0;
+}
+
+.modelo-produto {
+    margin: 0;
+}
+
+.preco {
+    font-weight: bold;
+}
+
+.quantidade {
+    margin-top: 3px;
+    font-weight: bold;
+    color: rgb(124, 124, 124);
+}
+
+.img-produto {
+    margin-right: 15px;
+}
+
+.comprovante {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: rgb(97, 97, 97);
+    border-top: 1px solid rgb(182, 182, 182);
+    border-bottom: 1px solid rgb(182, 182, 182);
+}
+
+.subtotal {
+    font-size: 1.2rem;
+    padding: 0;
+    margin: 0;
+    color: rgb(97, 97, 97);
+    border-bottom: 1px solid rgb(182, 182, 182);
+}
+
+
+.total {
+    font-size: 1.2rem;
+    color: rgb(97, 97, 97);
+}
