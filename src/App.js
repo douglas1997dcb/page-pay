@@ -1,7 +1,8 @@
-
 import './App.css';
 import MenuDeslizante from '../src/pages/MenuDeslizante'
 import ResumoPedidos from './pages/ResumoPedidos';
+
+import React from 'react';
 
 function App() {
   return (
@@ -12,7 +13,6 @@ function App() {
       <div className='LateralDireita'>
         <ResumoPedidos />
       </div>
-
     </div>
   );
 }

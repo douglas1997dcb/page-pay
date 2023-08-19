@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tênis Mizuno Wave Titan 2 - Pret",
+      "price": 1500.00,
+      "quantity": 1,
+      "image": "../img/camiseta.png"
+    },
+    {
+      "id": 2,
+      "name": "Relogio Inteligente Smartwatch",
+      "price": 2399.00,
+      "quantity": 2,
+      "image": "../img/camiseta.png"
+    },
+    {
+      "id": 3,
+      "name": "Camiseta Masculina Dry",
+      "price": 799.00,
+      "quantity": 3,
+      "image": "/camiseta.png"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
+  

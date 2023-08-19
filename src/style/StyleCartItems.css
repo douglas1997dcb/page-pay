@@ -1,0 +1,26 @@
+.cart-item {
+    border-bottom: 1px solid rgb(185, 185, 185);
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+    display: flex;
+    align-items: center;
+}
+
+.item-quantity {
+    padding: 5px;
+}
+
+.imagem-produto {
+    width: 80px;
+    height: 80px;
+    padding-right: 10px;
+}
+
+.bnt-lixeira {
+    margin-left: 5px;
+}
+
+.qnt-lixeira{
+    display: flex;
+}
